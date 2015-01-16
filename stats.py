@@ -20,6 +20,11 @@ def median(vals):
     else:
        return vals[index]
     pass
+Changed, changed changed.
+
+
+
+
 
 def mode(vals):
     """Computes the mode from a list of values."""
